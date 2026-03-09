@@ -5,10 +5,10 @@
   "homepage": "https://vedant294.github.io/exam-form-submission",
   "private": true,
   "dependencies": {
+    "axios": "^1.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.20.0",
-    "axios": "^1.6.2",
     "react-scripts": "5.0.1"
   },
   "scripts": {
@@ -37,7 +37,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.3.0"
   },
   "proxy": "http://localhost:8080"
 }
