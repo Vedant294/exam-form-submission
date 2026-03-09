@@ -77,7 +77,7 @@ start-backend.bat
 1. ✅ Java 17 installed
 2. ✅ Maven installed
 3. ✅ MySQL running
-4. ✅ Database 'vipuldb' created
+4. ✅ Database 'kdk_college_db' created
 5. ✅ Schema imported
 
 ---

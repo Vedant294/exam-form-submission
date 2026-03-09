@@ -25,8 +25,8 @@ Download from: https://dev.mysql.com/downloads/mysql/
 mysql -u root -p
 
 # Create database and import schema
-CREATE DATABASE vipuldb;
-USE vipuldb;
+CREATE DATABASE kdk_college_db;
+USE kdk_college_db;
 source database/schema.sql;
 exit;
 ```
@@ -80,7 +80,7 @@ Use test credentials:
 ### MySQL Connection Error
 - Check MySQL is running: `net start MySQL80`
 - Verify password in application.properties
-- Ensure database 'vipuldb' exists
+- Ensure database 'kdk_college_db' exists
 
 ### Port Already in Use
 - Backend (8080): Change port in application.properties

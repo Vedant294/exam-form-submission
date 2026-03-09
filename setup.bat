@@ -30,7 +30,7 @@ echo ========================================
 echo Next Steps:
 echo ========================================
 echo 1. Configure database in src/main/resources/application.properties
-echo 2. Import database schema: mysql -u root -p vipuldb ^< database/schema.sql
+echo 2. Import database schema: mysql -u root -p kdk_college_db ^< database/schema.sql
 echo 3. Run backend: start-backend.bat
 echo 4. Run frontend: start-frontend.bat
 echo.

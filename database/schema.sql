@@ -1,8 +1,8 @@
 -- KDK College Database Schema
--- Database: vipuldb
+-- Database: kdk_college_db
 
-CREATE DATABASE IF NOT EXISTS vipuldb;
-USE vipuldb;
+CREATE DATABASE IF NOT EXISTS kdk_college_db;
+USE kdk_college_db;
 
 -- Students Table
 CREATE TABLE IF NOT EXISTS students (

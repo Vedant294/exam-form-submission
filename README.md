@@ -20,8 +20,8 @@ Full-stack student management system for KDK College of Engineering, Nagpur.
 ### 1. Database Setup
 ```bash
 mysql -u root -p
-CREATE DATABASE vipuldb;
-USE vipuldb;
+CREATE DATABASE kdk_college_db;
+USE kdk_college_db;
 source database/schema.sql;
 ```
 

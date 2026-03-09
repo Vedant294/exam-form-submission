@@ -63,8 +63,8 @@ function Preview() {
           <div className="mt-8 pt-6 border-t border-gray-200">
             <h3 className="text-lg font-bold text-gray-800 mb-3">📋 Setup Instructions</h3>
             <ol className="list-decimal list-inside space-y-2 text-gray-700">
-              <li>Setup MySQL database: <code className="bg-gray-100 px-2 py-1 rounded">CREATE DATABASE vipuldb;</code></li>
-              <li>Import schema: <code className="bg-gray-100 px-2 py-1 rounded">mysql -u root -p vipuldb &lt; database/schema.sql</code></li>
+              <li>Setup MySQL database: <code className="bg-gray-100 px-2 py-1 rounded">CREATE DATABASE kdk_college_db;</code></li>
+              <li>Import schema: <code className="bg-gray-100 px-2 py-1 rounded">mysql -u root -p kdk_college_db &lt; database/schema.sql</code></li>
               <li>Start backend: <code className="bg-gray-100 px-2 py-1 rounded">mvn spring-boot:run</code></li>
               <li>Start frontend: <code className="bg-gray-100 px-2 py-1 rounded">npm start</code></li>
             </ol>
