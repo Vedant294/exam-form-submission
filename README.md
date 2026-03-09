@@ -4,7 +4,7 @@ Full-stack student management system for KDK College of Engineering, Nagpur.
 
 ## 🚀 Live Demo
 
-**Live Demo:** https://vedant294.github.io/kdk-college-management
+**Live Demo:** https://vedant294.github.io/exam-form-submission
 
 **Test Credentials:**
 - Email: `jack@gmail.com`

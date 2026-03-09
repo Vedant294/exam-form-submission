@@ -2,7 +2,7 @@
   "name": "kdk-college-frontend",
   "version": "1.0.0",
   "description": "React frontend for KDK College Management System",
-  "homepage": "https://vedant294.github.io/kdk-college-management",
+  "homepage": "https://vedant294.github.io/exam-form-submission",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
